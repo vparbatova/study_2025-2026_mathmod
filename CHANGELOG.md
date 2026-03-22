@@ -9,3 +9,5 @@ All notable changes to this project will be documented in this file. See [standa
 ## 1.0.0 (2026-02-17)
 
 ## 1.3.0 (2026-03-17)
+
+## 1.4.0 (2026-04-03)
